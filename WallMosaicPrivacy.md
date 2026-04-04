@@ -1,6 +1,6 @@
 # Privacy Policy — Wall Mosaic
 
-**Effective Date:** [Insert Date]
+**Effective Date:** April 2026
 
 Wall Mosaic is designed to help you plan picture wall layouts using real-world dimensions. Your privacy is important, and this app is built to minimize data collection.
 
