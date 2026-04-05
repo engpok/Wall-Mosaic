@@ -16,6 +16,10 @@ Wall Mosaic lets you:
 
 ---
 
+<img width="992" height="493" alt="image" src="https://github.com/user-attachments/assets/a304e7a4-8270-456f-8ec6-baf049c8f402" />
+
+---
+
 ## Getting Started
 
 ### 1. Create a Wall
@@ -98,6 +102,17 @@ The report includes:
   - Distance from left edge  
   - Distance from right edge  
   - Height from bottom of wall  
+
+---
+
+## Saving & Loading
+<img width="1059" height="374" alt="image" src="https://github.com/user-attachments/assets/30f90194-bca1-4bc1-b79e-03cf9e8bd04a" />
+
+Projects are saved in folders that are given a filename ending of ".wmproj". Project folders store all walls, and the Store Room of all of the pictures. 
+
+The Store Room of pictures can be exported and imported to allow sharing with other designers. The diagram below shows the different modes of Import:
+
+<img width="1032" height="521" alt="image" src="https://github.com/user-attachments/assets/3d3d7d40-fea4-4905-a851-8d14a320fa54" />
 
 ---
 
