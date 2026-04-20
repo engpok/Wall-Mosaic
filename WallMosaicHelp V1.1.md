@@ -31,28 +31,36 @@ Click **Add Wall** and choose one of the following:
 - No photo required  
 - Corners are automatically defined  
 
-#### Photo Wall (fully measurable)
+#### Photo of Wall (fully measurable)
 - Import a photo of your wall  
 - Drag the corner handles to match the wall's corners  
 - Enter real-world wall dimensions
 - Turn on "Crop to Corners"
 
-#### Photo Wall (very large)
-- Mark a smaller, measurable area on the wall, and photograpgh the entire wall
-- Import the photo of your wall  
+#### Photo of Wall (very large)
+- Mark a smaller, measurable area on the wall, and photograph the entire wall
+- Import the photo of your wall
+- Turn off "Crop to Corners" 
 - Drag the corner handles to match the smaller area's corners  
 - Enter real-world smaller area dimensions
-- Turn off "Crop to Corners"
+- In main area: drag left/right/bottom guides to edges of wall
 
 ---
 
 ### 2. Add Pictures
 
-Click **Add Picture** and:
+Click **Add Picture** and choose one of the following:
 
+#### Photo of picture
 - Enter width and height  
-- Set the hanging hook position (distance from top of frame)
+- Set the hanging hook height (distance from bottom of frame)
 - Pictures are stored in the "Store Room" at the bottom of the window
+
+#### Simulated Picture
+- can be placeholder for picture, shelves, plants, etc.
+- Enter width and height  
+- No photo required  
+- Corners are automatically defined  
 
 ---
 
