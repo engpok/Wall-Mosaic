@@ -132,6 +132,19 @@ The Store Room of pictures can be exported and imported to allow sharing with ot
 
 ---
 
+## 💡 Frequently Asked Questions
+
+**How can I test accuracy?**
+There is a wonderfully easy two step process:
+ - Use a photo of wall that has a picture hanging on the wall
+ - Take a photo of that picture and then place that on the wall
+ - If the added picture matches the size of the picture in the wall photo then you know that your wall and picture calibration are correct and accurate.
+
+**I had a TV on a dresser in the picture of the wall. But, using the cursor I can tell that the TV's dimensions are not correct. What has happened?**
+Yes, if the TV was on a dresser, so it wasn't right against the wall (like a hanging picture) then you're getting parallax distortion. I'll give you a more exaggerated example to show how this happens. Imagine that you were lining up your camera to take a picture of the entire wall. Now imagine that someone took a piece of paper and walked it into your field of view and positioned it such that the two top corners of the paper lined up with the top corners of the wall in your viewfinder (pretty stupid to let them block our view like this, but stay with me). If you took that photo and calibrated to the wall's dimensions... then, in the main window, if you used the cursor to see how big the piece of paper was, it would have to report that the paper was as wide as the wall. This happened because the paper was not against the wall, but instead was so close to the camera that it appears as large as the wall in the background. The further off the wall (the closer to the camera), the larger the object appears in the image. So, even if the TV is just a hand's length off the wall, it will be noticeably larger when measured with the cursor. 
+
+---
+
 ## Privacy
 
 Wall Mosaic:
