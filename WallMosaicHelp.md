@@ -1,4 +1,4 @@
-<h1 align="center"> Wall Mosaic — Help<br>Version 1.0</h1>
+<h1 align="center"> Wall Mosaic — Help<br>Version 1.1</h1>
 
 Wall Mosaic helps you design picture wall layouts using real-world dimensions—so you can plan everything before you start hanging frames.
 
@@ -31,20 +31,36 @@ Click **Add Wall** and choose one of the following:
 - No photo required  
 - Corners are automatically defined  
 
-#### Photo Wall
+#### Photo of Wall (fully measurable)
 - Import a photo of your wall  
-- Drag the corner handles to match the wall edges  
-- Enter real-world wall dimensions  
+- Drag the corner handles to match the wall's corners  
+- Enter real-world wall dimensions
+- Turn on "Crop to Corners"
+
+#### Photo of Wall (very large)
+- Mark a smaller, measurable area on the wall, and photograph the entire wall
+- Import the photo of your wall
+- Turn off "Crop to Corners" 
+- Drag the corner handles to match the smaller area's corners  
+- Enter real-world smaller area dimensions
+- In main area: drag left/right/bottom guides to edges of wall
 
 ---
 
 ### 2. Add Pictures
 
-Click **Add Picture** and:
+Click **Add Picture** and choose one of the following:
 
+#### Photo of picture
 - Enter width and height  
-- Set the hanging hook position (distance from top of frame)
+- Set the hanging hook height (distance from bottom of frame)
 - Pictures are stored in the "Store Room" at the bottom of the window
+
+#### Simulated Picture
+- can be placeholder for picture, shelves, plants, etc.
+- Enter width and height  
+- No photo required  
+- Corners are automatically defined  
 
 ---
 
@@ -113,6 +129,19 @@ Projects are saved in folders that are given a filename ending of ".wmproj". Pro
 The Store Room of pictures can be exported and imported to allow sharing with other designers. The diagram below shows the different modes of Import:
 
 <img width="1032" height="521" alt="image" src="https://github.com/user-attachments/assets/3d3d7d40-fea4-4905-a851-8d14a320fa54" />
+
+---
+
+## 💡 Frequently Asked Questions
+
+**How can I test accuracy?**
+There is a wonderfully easy two step process:
+ - Use a photo of wall that has a picture hanging on the wall
+ - Take a photo of that picture and then place that on the wall
+ - If the added picture matches the size of the picture in the wall photo then you know that your wall and picture calibration are correct and accurate.
+
+**I had a TV on a dresser in the picture of the wall. But, using the cursor I can tell that the TV's dimensions are not correct. What has happened?**
+Yes, if the TV was on a dresser, so it wasn't right against the wall (like a hanging picture) then you're getting parallax distortion. I'll give you a more exaggerated example to show how this happens. Imagine that you were lining up your camera to take a picture of the entire wall. Now imagine that someone took a piece of paper and walked it into your field of view and positioned it such that the two top corners of the paper lined up with the top corners of the wall in your viewfinder (pretty stupid to let them block our view like this, but stay with me). If you took that photo and calibrated to the wall's dimensions... then, in the main window, if you used the cursor to see how big the piece of paper was, it would have to report that the paper was as wide as the wall. This happened because the paper was not against the wall, but instead was so close to the camera that it appears as large as the wall in the background. The further off the wall (the closer to the camera), the larger the object appears in the image. So, even if the TV is just a hand's length off the wall, it will be noticeably larger when measured with the cursor. 
 
 ---
 
