@@ -1,4 +1,4 @@
-<h1 align="center"> Wall Mosaic — Help<br>Version 1.1</h1>
+<h1 align="center"> Wall Mosaic — Help<br>Version 1.2</h1>
 
 Wall Mosaic helps you design picture wall layouts using real-world dimensions—so you can plan everything before you start hanging frames.
 
